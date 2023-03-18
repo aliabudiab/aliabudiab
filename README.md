@@ -1,4 +1,3 @@
-### Hi there! I'm Ali Abu Diab 👋
 <br>
 <h2 align='center'><samp><strong> Hi there 👋 This is Ali Abu Diab </strong></samp></h2> 
 <p align='center'> Precision Software Engineer with a unique blend of technical expertise and creative vision. My passion for designing, developing, and implementing visually stunning and user-friendly websites using cutting-edge technologies and industry best practices has been the driving force behind my career.</p>
