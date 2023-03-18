@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Ali Abu Diab 👋
+
+A Precision Software Engineer with a unique blend of technical expertise and creative vision.
 
 <!--
 **aliabudiab/aliabudiab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
